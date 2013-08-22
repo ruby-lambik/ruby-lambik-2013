@@ -15,7 +15,7 @@ If you want to join, create a pull request to this repository which creates a si
 attendees/Arne_Brasseur
 ```
 
-Make sure the email address you use for the Git commit includes a valid email address where we can reach you at. Inside the file you can mention if you want to bring a significant other, and some info you'd like to share, for instance your twitter handle.
+Make sure the email address you use for the Git commit includes a valid email address where we can reach you at. Inside the file you can mention if you want to bring a significant other, any dietary requirements (vegetarian, vegan, lactose-free, etc.), and some info you'd like to share, for instance your twitter handle.
 
 We will merge PRs until we reach our capacity. PRs are served FIFO, with the exception that people who have expressed before on Twitter that they'd like to join get priority.
 
