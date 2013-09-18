@@ -19,15 +19,11 @@ Make sure the email address you use for the Git commit includes a valid email ad
 
 We will merge PRs until we reach our capacity. PRs are served FIFO, and merged up to the point that we have capicity for.
 
-## Tickets
-
-We currently have prices for the bus and for two brewery visits, we're still working on arranging a third visit, and a place for lunch. As soon as we have those we'll know the final price and will send out links where you can buy the actual ticket.
-
-This is a not-for-profit event, we will only charge the costs we have.
-
 ## Schedule
 
-So far we have confirmation of the breweries Cantillon and Boon.
+We have an appointment at 11:00 to visit the Brewery Cantillon, which is close to the "Bruxelles-Midi/Brussel-Zuid" Railway station. People can meet up in Ghent (@plexus will be there), or come straight to Brussels. The tour takes an hour and a half, including a tasting session. After that we grab some lunch in Brussels. 
+
+At 13:30 a minibus will be waiting for us to take us to the "Pajottenland", a beautiful area to the south of Brussels. There we will visit a number of old traditional Gueuze bars, each with their own selection of regional beers. We aim to back at Bruxelles-Midi around 17:30-18:00.
 
 ## Questions
 
