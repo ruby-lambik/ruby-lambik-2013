@@ -1,8 +1,6 @@
 ruby-lambik-2013
 ================
 
-## REGISTRATION IS CLOSED
-
 On Wednesday October 2, 2013, the day before [ArrrrCamp](http://arrrrcamp.be), we are organizing a day trip from Ghent (the location of Arrrcamp) to some Gueuze and Lambik breweries around Brussels. These beers are unique to this region. The plan is to visit three different breweries, which includes tasting sessions, and have lunch in between.
 
 Tentative schedule is to leave Ghent around 10AM, and be back around 6PM.
