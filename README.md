@@ -7,7 +7,7 @@ Tentative schedule is to leave Ghent around 10AM, and be back around 6PM.
 
 ## Pre-registering
 
-Places are limited because the breweries have limited capacity for these guided tours, and because we want to keep the atmosphere cozy and the event manageable. 
+Places are limited because the breweries have limited capacity for these guided tours, and because we want to keep the atmosphere cozy and the event manageable.
 
 If you want to join, create a pull request to this repository which creates a single new file in the `attendees` directory. The file name should be your name, with underscores for spaces. e.g.
 
@@ -21,9 +21,11 @@ We will merge PRs until we reach our capacity. PRs are served FIFO, and merged u
 
 ## Schedule
 
-We have an appointment at 11:00 to visit the Brewery Cantillon, which is close to the "Bruxelles-Midi/Brussel-Zuid" Railway station. People can meet up in Ghent (@plexus will be there), or come straight to Brussels. The tour takes an hour and a half, including a tasting session. After that we grab some lunch in Brussels. 
+We have an appointment at 11:00 to visit the Brewery Cantillon, which is close to the "Bruxelles-Midi/Brussel-Zuid" Railway station. People can meet up in Ghent (@plexus will be there), or come straight to Brussels. The tour takes an hour and a half, including a tasting session. After that we grab some lunch in Brussels.
 
 At 13:30 a minibus will be waiting for us to take us to the "Pajottenland", a beautiful area to the south of Brussels. There we will visit a number of old traditional Gueuze bars, each with their own selection of regional beers. We aim to back at Bruxelles-Midi around 17:30-18:00.
+
+Here's a [Map of places we might visit](https://www.google.be/maps/ms?msid=206150340178934752247.0004e08cc3b670392b21e&msa=0) (too many to do them all)
 
 ## Questions
 
