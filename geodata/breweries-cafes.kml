@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Ruby Lambik - Brouwerijen en Cafés</name>
+  <description><![CDATA[- Meyts Polle aan de kerk in Elingen (eigen kriek)
+- Bij Schaekels Eizingen-Eerzingen.
+]]></description>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Cantillion</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>4.335222,50.841583,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oud Beersel</name>
+    <description><![CDATA[<div dir="ltr">Gueuze Vandervelden. Staat nog een Hamontorgel!</div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>4.300117,50.758614,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>De Cam volkscafe</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>4.114122,50.795437,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Brouwerij Boon</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>4.220059,50.712330,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cafe de Koekoek, Asse</name>
+    <description><![CDATA[<div dir="ltr">http://hierstroomthetbier.be/2009/01/18/cafe-de-koekoek/<br><br>Girardin, Hanssens<br><br>Edingsesteenweg 200<br>1730 Asse<br>Tel. 02 452 74 92</div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>4.171565,50.893608,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>In de Welkom, Dworp</name>
+    <description><![CDATA[<div dir="ltr">waar ook gueuzesteker Hanssens is. Enig! Hanssens.<br>Heel mooi café en de ‘madam’ weet hoe ze gueuze moet schenken.<br><br>Molenveld 79, 1653 Dworp<br>02 380 11 17</div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>4.301920,50.723038,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>De 3 Fonteinen, Beersel</name>
+    <description><![CDATA[<div dir="ltr">aan de kerk in Beersel. Je kan er ook iets eten.<br><br>Hoogstraat 2a, 1650 Beersel<br>02 306 71 03<br><br>Address: Hoogstraat 2a, 1650 Beersel<br>Phone:02 306 71 03<br><br>Alleen vrijdag en zaterdag, 9:00 tot 18:00</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>4.308014,50.765999,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>De Oude Pruim, Beersel</name>
+    <description><![CDATA[<div dir="ltr">Oude herberg met gueuze Hanssens. Boterham met pottenkaas!<br><br>In de Oude Pruim<br>Steenweg op Ukkel 87<br>B-1650 Beersel<br><br>tel: +32 (0)2 331 05 59<br><br> openingsuren:<br>van 9:00 tot 22:00 uur<br>van 12:00 tot 22:00 uur is de keuken open<br>woensdag en donderdag zijn wij gesloten</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>4.312434,50.770016,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>De Rare Vos, Schepdaal, Dilbeek</name>
+    <description><![CDATA[<div dir="ltr">op het marktplein van Schepdaal. AL erg gekend onder de liefhebbers en dus ook<br>  duurder maar zeker de moeite waard. Ook iets te eten. Girardin. Gesloten dinsdag&amp;woensdag.</div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>4.192293,50.835831,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>In De Oude Smis van Mekingen</name>
+    <description><![CDATA[<div dir="ltr">http://hierstroomthetbier.be/2009/08/26/in-de-oude-smis-van-mekingen/<br><br>Jean-Baptiste Cardijnlaan 10<br>1600 Sint-Pieters-Leeuw<br><br>Alle dagen open vanaf 10:00 uur, dinsdag gesloten.<br><br>02 356 19 74<br><br>Moriau</div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>4.228411,50.764225,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>In de Verzekering tegen de groten dorst</name>
+    <description><![CDATA[<div dir="ltr">in Eizeringen (Lennik). Enkel op zondag. Hier kan je verschillende<br>  soorten proeven.</div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>4.139904,50.831738,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rie Van Pol</name>
+    <description><![CDATA[<div dir="ltr">Dorp 6, Mollem (Asse)<br><br>- Bij Rie van Mollem (87 jaar) Dorpsplein in Mollem.(eigen kriek)</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>4.227483,50.930763,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

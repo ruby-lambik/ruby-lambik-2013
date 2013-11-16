@@ -1,0 +1,206 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.335222,
+                    50.841583,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cantillion",
+                "styleUrl": "#style6",
+                "styleHash": "-644e3e6c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.300117,
+                    50.758614,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oud Beersel",
+                "styleUrl": "#style7",
+                "styleHash": "-2bd99f8d",
+                "description": "<div dir=\"ltr\">Gueuze Vandervelden. Staat nog een Hamontorgel!</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.114122,
+                    50.795437,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "De Cam volkscafe",
+                "styleUrl": "#style10",
+                "styleHash": "-3a6571df"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.220059,
+                    50.71233,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Brouwerij Boon",
+                "styleUrl": "#style3",
+                "styleHash": "-dac1b09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.171565,
+                    50.893608,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Cafe de Koekoek, Asse",
+                "styleUrl": "#style11",
+                "styleHash": "-1f0d300",
+                "description": "<div dir=\"ltr\">http://hierstroomthetbier.be/2009/01/18/cafe-de-koekoek/<br><br>Girardin, Hanssens<br><br>Edingsesteenweg 200<br>1730 Asse<br>Tel. 02 452 74 92</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.30192,
+                    50.723038,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "In de Welkom, Dworp",
+                "styleUrl": "#style1",
+                "styleHash": "-7e9558c7",
+                "description": "<div dir=\"ltr\">waar ook gueuzesteker Hanssens is. Enig! Hanssens.<br>Heel mooi café en de ‘madam’ weet hoe ze gueuze moet schenken.<br><br>Molenveld 79, 1653 Dworp<br>02 380 11 17</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.308014,
+                    50.765999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "De 3 Fonteinen, Beersel",
+                "styleUrl": "#style5",
+                "styleHash": "633d22b5",
+                "description": "<div dir=\"ltr\">aan de kerk in Beersel. Je kan er ook iets eten.<br><br>Hoogstraat 2a, 1650 Beersel<br>02 306 71 03<br><br>Address: Hoogstraat 2a, 1650 Beersel<br>Phone:02 306 71 03<br><br>Alleen vrijdag en zaterdag, 9:00 tot 18:00</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.312434,
+                    50.770016,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "De Oude Pruim, Beersel",
+                "styleUrl": "#style9",
+                "styleHash": "450f9e31",
+                "description": "<div dir=\"ltr\">Oude herberg met gueuze Hanssens. Boterham met pottenkaas!<br><br>In de Oude Pruim<br>Steenweg op Ukkel 87<br>B-1650 Beersel<br><br>tel: +32 (0)2 331 05 59<br><br> openingsuren:<br>van 9:00 tot 22:00 uur<br>van 12:00 tot 22:00 uur is de keuken open<br>woensdag en donderdag zijn wij gesloten</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.192293,
+                    50.835831,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "De Rare Vos, Schepdaal, Dilbeek",
+                "styleUrl": "#style8",
+                "styleHash": "c9aff52",
+                "description": "<div dir=\"ltr\">op het marktplein van Schepdaal. AL erg gekend onder de liefhebbers en dus ook<br>  duurder maar zeker de moeite waard. Ook iets te eten. Girardin. Gesloten dinsdag&amp;woensdag.</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.228411,
+                    50.764225,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "In De Oude Smis van Mekingen",
+                "styleUrl": "#style2",
+                "styleHash": "-4620b9e8",
+                "description": "<div dir=\"ltr\">http://hierstroomthetbier.be/2009/08/26/in-de-oude-smis-van-mekingen/<br><br>Jean-Baptiste Cardijnlaan 10<br>1600 Sint-Pieters-Leeuw<br><br>Alle dagen open vanaf 10:00 uur, dinsdag gesloten.<br><br>02 356 19 74<br><br>Moriau</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.139904,
+                    50.831738,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "In de Verzekering tegen de groten dorst",
+                "styleUrl": "#style12",
+                "styleHash": "3683cbdf",
+                "description": "<div dir=\"ltr\">in Eizeringen (Lennik). Enkel op zondag. Hier kan je verschillende<br>  soorten proeven.</div>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.227483,
+                    50.930763,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rie Van Pol",
+                "styleUrl": "#style4",
+                "styleHash": "2ac883d6",
+                "description": "<div dir=\"ltr\">Dorp 6, Mollem (Asse)<br><br>- Bij Rie van Mollem (87 jaar) Dorpsplein in Mollem.(eigen kriek)</div>"
+            }
+        }
+    ]
+}
